@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm Dave Chiluk is a Linux Systems Software Engineer currently work for Canonical on Ubuntu.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Look me up on Linked in if you wish to contact me.
