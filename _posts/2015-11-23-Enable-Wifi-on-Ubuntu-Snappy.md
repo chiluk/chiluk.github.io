@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enable Wifi on Ubuntu Snappy
-date: 
+date: 2015-11-23
 author: chiluk
 tags:
 - linux
